@@ -1,0 +1,28 @@
+FEED 100
+BEND -115
+FEED 100
+BEND -115
+Rotate wire 70.5 degrees CCW looking at the front face
+FEED 100
+BEND 115
+FEED 100
+BEND 115
+Rotate wire CW
+FEED 100
+BEND -115
+FEED 100
+BEND -115
+Rotate wire CCW
+FEED 100
+BEND 115
+FEED 100
+BEND 115
+Rotate wire CW
+FEED 100
+BEND -115
+FEED 100
+BEND -115
+Rotate wire CCW
+FEED 100
+BEND 115
+FEED 100

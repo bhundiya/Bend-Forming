@@ -130,7 +130,7 @@ heuristicpath = heuristicpathtrusshoop(ninner,nouter,sidenum);
 plotbendpathwCM(g,heuristicpath,pos,0.01,1,50,"C:\Users\harsh\OneDrive\Desktop\Test.mp4",[0 90])
 
 %% TETRAHEDRAL TRUSS
-diameter = 30; % mm % 100
+diameter = 100; % mm % 100
 depth = 30; % mm % 25
 [g,pos] = tetrahedraltrussgraph3D(diameter,depth);
 plotgraph(g,pos)
